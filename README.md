@@ -124,6 +124,7 @@ git checkout -b add-alonzo-church
 ```
 
 (The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+* Branches are meant for your coding(or experimenting) in safer side.
 
 ## Make necessary changes and commit those changes
 
